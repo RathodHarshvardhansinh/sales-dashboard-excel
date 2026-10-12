@@ -10,7 +10,6 @@ Turn sales data and KPIs into an interactive view that a stakeholder can use on 
 | File | Purpose |
 |---|---|
 | `Sales_Dashboard.xlsx` | The interactive dashboard (3 sheets: Dashboard, Data, Calc) |
-| `How_to_Read_Dashboard.docx` | One-page note explaining how to read the dashboard |
 | `README.md` | This file |
 
 ## Dataset
@@ -62,3 +61,6 @@ Full-year sample: about $1.25M sales, 9.0% margin (target 10%). West is the top 
 ## Assumptions
 - 10% target margin (editable on `Calc!B3`).
 - Sample data, not a real company's figures. Currency shown in USD.
+
+##Author
+- Rathod Harshvardhansinh 
